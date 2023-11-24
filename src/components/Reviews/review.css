@@ -1,0 +1,66 @@
+.reviewTop {
+    /* margin-top: 60px; */
+    margin: 60px 0px;
+
+}
+
+.reviewTop h3 {
+    color: #21383E;
+    text-align: center;
+    font-size: 35.102px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.reviewTop p {
+    color: #21383E;
+    text-align: center;
+    font-size: 25.463px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.privacy-cards{
+    display: flex;
+    padding: 0px 72px;
+    column-gap: 65px;
+    padding-bottom: 29px;
+
+}
+
+.privacy-card {
+    padding: 20px 22px 44px 22px;
+    border-radius: 34.902px;
+    background: #FFF;
+    box-shadow: 0px 0px 36.29846px 0px rgba(0, 0, 0, 0.40);
+    max-width: 389px;
+}
+
+.pcardTop {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+}
+
+.pcardTop h3 {
+    color: #21383E;
+    text-align: center;
+    font-size: 25.15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.pcardTop p {
+    color: #21383E;
+    text-align: center;
+    font-size: 15.149px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.privacy-card p{
+    margin-top: 21px;
+}
