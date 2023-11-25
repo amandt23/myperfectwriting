@@ -7,12 +7,10 @@ import PlaceOrder from './components/PlaceOrder/PlaceOrder';
 import Price from './components/Price/Price';
 import Review from './components/Reviews/Review';
 import Social from './components/Social/Social';
-import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
     <>
-      <Navbar />
       <MyTeam />
       <PlaceOrder />
       <Price />
